@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "nodemcu-logging"
-version = "0.0.1-1"
+version = "0.0.2-1"
 -- LuaDist source
 source = {
-  tag = "0.0.1-1",
+  tag = "0.0.2-1",
   url = "git://github.com/LuaDist-testing/nodemcu-logging.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/leprechaun/nodemcu-logging",
---    tag = "v0.0.1"
+--    tag = "v0.0.2"
 -- }
 description = {
    summary = "this is a summary",
