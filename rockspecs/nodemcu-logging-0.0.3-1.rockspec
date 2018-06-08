@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "nodemcu-logging"
-version = "0.0.2-1"
--- LuaDist source
+version = "0.0.3-1"
 source = {
-  tag = "0.0.2-1",
-  url = "git://github.com/LuaDist-testing/nodemcu-logging.git"
+   url = "git://github.com/leprechaun/nodemcu-logging",
+   tag = "v0.0.3"
 }
--- Original source
--- source = {
---    url = "git://github.com/leprechaun/nodemcu-logging",
---    tag = "v0.0.2"
--- }
 description = {
    summary = "this is a summary",
    detailed = "details",
